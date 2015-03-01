@@ -1,0 +1,19 @@
+<package>
+  <name>guide-robot</name>
+  <version>0.1.1</version>
+  <description>Guide Robot for LARA</description>
+  <author email="gabriel.araujo.5000@gmail.com">Gabriel Araujo</author>
+
+  <maintainer email="gabriel.araujo.5000@gmail.com">Gabriel Araujo</maintainer>
+
+  <license>MIT</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <run_depend>nlp-module</run_depend>
+
+  <export>
+    <metapackage/>
+  </export>
+
+</package>
