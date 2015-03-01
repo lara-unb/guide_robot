@@ -1,5 +1,5 @@
 <package>
-  <name>guide-robot</name>
+  <name>guide_robot</name>
   <version>0.1.1</version>
   <description>Guide Robot for LARA</description>
   <author email="gabriel.araujo.5000@gmail.com">Gabriel Araujo</author>
