@@ -1,0 +1,3 @@
+[submodule "nlp-module"]
+	path = nlp-module
+	url = https://github.com/Gastd/nlp-module.git
